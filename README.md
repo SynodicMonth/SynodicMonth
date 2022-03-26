@@ -1,0 +1,5 @@
+ - SynodicMonth, Synodic
+ - Nankai University, China
+ - Interested in Computer Graphics
+ - BiliBili : https://space.bilibili.com/26738256
+ - Contact me : Synodic_Month@163.com
