@@ -1,4 +1,4 @@
- - SynodicMonth, Synodic
+ - David Guo / Guo Dawei
  - Nankai University
  - Interested in Computer Architecture and AIGC
  - BiliBili : https://space.bilibili.com/26738256
