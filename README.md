@@ -1,6 +1,5 @@
  - David Guo / Guo Dawei
- - Nankai University
+ - Phd candidate @ The Chinese University of Hong Kong
  - Interested in Computer Architecture and AIGC
  - BiliBili : https://space.bilibili.com/26738256
  - Contact me : Synodic_Month@163.com
- - Applying for Phd in CS
